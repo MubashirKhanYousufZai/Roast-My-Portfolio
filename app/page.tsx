@@ -78,7 +78,7 @@ export default function RoastPage() {
                 <Loader2 className="w-5 h-5 animate-spin" /> Roasting...
               </>
             ) : (
-              "🔥 Roast"
+              "🔥 Roast 🔥"
             )}
           </button>
         </div>
